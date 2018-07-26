@@ -5,7 +5,7 @@ node default {
     owner   => 'root',
   }
   
-  file {'/root/RREADME':
+  file {'/root/README':
     owner => 'root',
   }
 }
